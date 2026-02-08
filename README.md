@@ -1,17 +1,7 @@
-# 🛡️ FUTURE_CS_01 - Web Application Security Testing
-
-**Internship:** Future Interns - Cyber Security  
-**Track Code:** CS  
-**Task Number:** 01  
-**Trainee Name:** Dhanush G  
-**Date:** December 23-24, 2025  
-**Repository:** https://github.com/DHANUSHGCODE/FUTURE_CS_01
+# 🛡️ Web Application Security Testing
 
 ---
-
-## 📋 Overview
-
-This repository contains comprehensive documentation and evidence of web application security testing conducted on vulnerable applications as part of the Future Interns Cyber Security Internship program. The project demonstrates practical application of penetration testing methodologies, vulnerability identification, and security assessment techniques.
+This repository contains comprehensive documentation and evidence of web application security testing conducted on vulnerable applications. The project demonstrates practical application of penetration testing methodologies, vulnerability identification, and security assessment techniques.
 
 **Objective:** Perform basic web application security testing on vulnerable applications to identify and document common security vulnerabilities including SQL Injection (SQLi), Cross-Site Scripting (XSS), Security Misconfigurations, and Authentication weaknesses.
 
@@ -212,7 +202,7 @@ Detailed screenshots and test results are available in the `wed vernumbality tes
 
 ## 🎓 Learning Outcomes
 
-Through this internship task, the following competencies were developed:
+Through this project task, the following competencies were developed:
 
 ✅ **Web Application Security Concepts**
 - OWASP Top 10 vulnerabilities
@@ -249,11 +239,7 @@ The comprehensive testing revealed critical vulnerabilities in web applications 
 
 ## 📞 Contact
 
-**Trainee:** Dhanush G  
-**Internship:** Future Interns - Cyber Security  
-**Track:** CS - 01  
 **Email:** [Your Email]  
-**LinkedIn:** [Your LinkedIn Profile]  
 **GitHub:** https://github.com/DHANUSHGCODE
 
 ---
