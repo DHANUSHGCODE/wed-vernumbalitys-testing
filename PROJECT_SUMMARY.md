@@ -2,16 +2,14 @@
 
 **Status:** ✅ COMPLETE & PROFESSIONAL  
 **Date:** December 25, 2025  
-**Internship:** Future Interns - Cyber Security  
-**Track:** CS - 01  
-**Trainee:** Dhanush G  
+
 **Repository:** https://github.com/DHANUSHGCODE/wed-vernumbalitys-testing
 
 ---
 
 ## 🎯 PROJECT OVERVIEW
 
-This repository documents comprehensive web application security testing conducted as part of the **Future Interns Cyber Security Internship Program**. The project demonstrates practical application of penetration testing, vulnerability assessment, and security analysis using industry-standard tools.
+This repository documents comprehensive web application security testing conducted as part of the a professional security assessment project. The project demonstrates practical application of penetration testing, vulnerability assessment, and security analysis using industry-standard tools.
 
 **Primary Objective:** Identify, document, and recommend mitigations for common web application vulnerabilities using OWASP ZAP, Burp Suite, SQLMap, and manual testing techniques.
 
@@ -300,9 +298,7 @@ The comprehensive documentation and evidence-based findings showcase competency 
 ## 📞 PROJECT INFORMATION
 
 **Trainee:** Dhanush G  
-**Internship:** Future Interns - Cyber Security  
-**Track:** CS - 01  
-**Project Start:** December 23, 2025  
+
 **Project Completion:** December 25, 2025  
 **Repository:** https://github.com/DHANUSHGCODE/wed-vernumbalitys-testing  
 **Contact:** dhanushgedu@gmail.com  
