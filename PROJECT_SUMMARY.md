@@ -1,11 +1,11 @@
-# 📊 FUTURE_CS_01 - PROJECT COMPLETION SUMMARY
+# 📊 wed-vernumbalitys-testing - PROJECT COMPLETION SUMMARY
 
 **Status:** ✅ COMPLETE & PROFESSIONAL  
 **Date:** December 25, 2025  
 **Internship:** Future Interns - Cyber Security  
 **Track:** CS - 01  
 **Trainee:** Dhanush G  
-**Repository:** https://github.com/DHANUSHGCODE/FUTURE_CS_01
+**Repository:** https://github.com/DHANUSHGCODE/wed-vernumbalitys-testing
 
 ---
 
@@ -20,7 +20,7 @@ This repository documents comprehensive web application security testing conduct
 ## 📁 REPOSITORY STRUCTURE
 
 ```
-FUTURE_CS_01/
+DVWA_Security_Testing/
 ├── README.md                          # 272-line comprehensive project overview
 ├── TASK_01_REPORT.md                  # 388-line detailed security testing report
 ├── OWASP_ZAP_TESTING_REPORT.md        # 360-line OWASP ZAP vulnerability assessment
@@ -284,7 +284,7 @@ FUTURE_CS_01/
 
 ## 🎯 CONCLUSION
 
-This FUTURE_CS_01 project successfully demonstrates:
+This wed-vernumbalitys-testing project successfully demonstrates:
 
 ✅ **Practical Web Security Knowledge** - Understanding of OWASP Top 10 vulnerabilities  
 ✅ **Tool Proficiency** - Hands-on experience with industry-standard security tools  
@@ -304,7 +304,7 @@ The comprehensive documentation and evidence-based findings showcase competency 
 **Track:** CS - 01  
 **Project Start:** December 23, 2025  
 **Project Completion:** December 25, 2025  
-**Repository:** https://github.com/DHANUSHGCODE/FUTURE_CS_01  
+**Repository:** https://github.com/DHANUSHGCODE/wed-vernumbalitys-testing  
 **Contact:** dhanushgedu@gmail.com  
 
 ---
